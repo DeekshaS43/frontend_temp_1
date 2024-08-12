@@ -1179,3 +1179,8 @@ body {
   }
 }
 
+@media screen and (max-width:543px){
+  .ques-wrapper{
+    width:70%;
+  }
+}
