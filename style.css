@@ -378,9 +378,8 @@ body {
 .testimonial-space {
   width: 80%;
 }
-.carousel-item {
-  text-align: center;
-  margin: 0 auto !important;
+.para{
+  text-align:center;
 }
 .profile {
   display: flex;
